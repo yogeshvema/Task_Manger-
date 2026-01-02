@@ -11,6 +11,7 @@ This is a responsive **Task Manager Frontend Application** designed to help user
 - ✔️ Responsive user interface  
 - ✔️ Minimal and clean design  
 - ✔️ Fast and lightweight
+- ✔️ very helpful
 
 ---
 
